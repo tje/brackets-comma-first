@@ -1,0 +1,12 @@
+﻿{
+    "name": "tje.comma-first",
+    "title": "Comma First",
+    "description": "Automatic comma-first notation.",
+    "homepage": "https://github.com/tje/brackets-comma-first",
+    "version": "0.0.1",
+    "author": "Tyler Ellis <tyler@poop.bike> (http://poop.bike)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.39.0"
+    }
+}

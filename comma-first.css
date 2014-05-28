@@ -1,0 +1,7 @@
+#comma-first-icon {
+  background: url('comma-first.png') no-repeat 0 0;
+}
+
+#comma-first-icon.on {
+  background-position: 0 -24px;
+}
